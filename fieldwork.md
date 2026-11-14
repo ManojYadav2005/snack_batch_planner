@@ -44,3 +44,4 @@ Data was recorded in a pocket notebook at the stall. For each hourly slot, I not
 Counts were confirmed with Ramesh at the end of each hour. Data was transferred to `data.csv` the same evening.
 
 The raw data is in [data.csv](data.csv).
+# fieldwork observation notes added
