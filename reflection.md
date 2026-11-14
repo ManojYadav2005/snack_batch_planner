@@ -22,3 +22,4 @@ During this 24‑hour take‑home I learned that assumptions made from a quick g
 Ramesh mentioned that the late‑night study group rarely orders tea but values a warm environment; this means the extra milk he opens for temperature control never converts to sales. The tool could be extended to suggest a separate “keep‑warm” milk reserve that isn’t counted toward sales‑driven stock.
 
 *This reflection was written without AI assistance, based on my experience during the assignment.*
+
